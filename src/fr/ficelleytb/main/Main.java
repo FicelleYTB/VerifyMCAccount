@@ -20,7 +20,7 @@ public class Main {
 			URL aaa;
 			aaa = new URL("https://api.mojang.com/users/profiles/minecraft/" + compte + "?at=1594715820");
 			URLConnection ccc = aaa.openConnection();
-			System.out.println("Requête envoyé");
+			System.out.println("RequÃªte envoyÃ©e");
 			System.out.println("Information:");
 			System.out.println("URL: " + ccc.getURL());
 			System.out.println("_______________________");
@@ -40,7 +40,7 @@ public class Main {
 			
 			
 		} catch (IOException e) {
-			System.out.println("Requête non envoyé");
+			System.out.println("RequÃªte non envoyÃ©e");
 			e.printStackTrace();
 		}
 	}
