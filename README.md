@@ -4,3 +4,4 @@
  # 0.1 (released)
  - Added main files
  - Added source code
+ - Added bootstrap
