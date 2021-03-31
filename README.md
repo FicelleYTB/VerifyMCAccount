@@ -5,3 +5,6 @@
  - Added main files
  - Added source code
  - Added bootstrap
+
+ # 0.2 (released)
+ - Small fix
