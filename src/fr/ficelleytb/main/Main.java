@@ -18,7 +18,7 @@ public class Main {
 		
 		try {
 			URL aaa;
-			aaa = new URL("https://api.mojang.com/users/profiles/minecraft/" + compte + "?at=1594715820");
+			aaa = new URL("https://api.mojang.com/users/profiles/minecraft/" + compte);
 			URLConnection ccc = aaa.openConnection();
 			System.out.println("Requête envoyée");
 			System.out.println("Information:");
@@ -46,5 +46,3 @@ public class Main {
 	}
 
 }
-
-// Peux parfois bugger !
