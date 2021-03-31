@@ -8,3 +8,6 @@
 
  # 0.2 (released)
  - Small fix
+
+# Warnings!
+The .jar file and .exe are old! its the 0.1 version
